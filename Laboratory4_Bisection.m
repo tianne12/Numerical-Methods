@@ -1,6 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%  Numerical Solution for CE Problems  %
-%  EngMath501                          %
+%  Numerical Methods                   %
 %  Engr. Mary Christianne Edjan        %
 %                                      %
 %  Bracketing Method                   %
