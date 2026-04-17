@@ -2,7 +2,7 @@
 %  Numerical Methods                           %
 %  Engr. Mary Christianne Edjan                %
 %                                              %
-%  Cubic Spline Interpolation                  %
+%  Linear Spline Interpolation                  %
 %  Curve Fitting and Interpolation             %
 %  Octave Code                                 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
